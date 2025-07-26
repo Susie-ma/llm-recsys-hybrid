@@ -1,0 +1,9 @@
+torch
+transformers
+sentence-transformers
+scikit-learn
+faiss-cpu
+pandas
+numpy
+tqdm
+openai
